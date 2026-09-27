@@ -14,7 +14,7 @@
 I am a **Computer Science student** interested in developing solutions using technology and data.
 <br>🐍 I enjoy programming in **Python** and have worked on projects related to **data analysis, data processing, and application development**.
 <br>🤖 One of my main interests is **Artificial Intelligence**, especially its application to solve problems and automate processes.
-<br>💡 I enjoy learning new technologies, taking on new challenges, and continuously developing my skills in **programming and data analysis**.
+<br>💡 I enjoy learning new technologies, taking on new challenges, and continuously developing my skills in **programming, data analysis, and data science**.
 
 ## 🚀 Featured Projects
 
